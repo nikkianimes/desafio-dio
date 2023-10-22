@@ -39,3 +39,7 @@ switch (true) {
     mensagem = Parabens + " radiante";
     console.log(Parabens + " radiante");
 }
+
+console.log (mensagem)
+
+daosdkadokqwqowdko
