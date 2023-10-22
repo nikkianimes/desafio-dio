@@ -42,4 +42,4 @@ switch (true) {
 
 console.log (mensagem)
 
-daosdkadokqwqowdko
+
