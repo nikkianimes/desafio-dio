@@ -1,7 +1,7 @@
 // atividade2
 
 let nomeHeroi = "nikkianimes ";
-let experienciaHeroi = 5001;
+let experienciaHeroi = 9000;
 let mensagem = "";
 
 const Parabens = "Parabens " + nomeHeroi + "voce ta no nivel";
@@ -11,27 +11,27 @@ switch (true) {
     mensagem = Parabens + " ferro";
     console.log(Parabens + " ferro");
     break;
-  case experienciaHeroi < 2000:
+  case experienciaHeroi < 2001:
     mensagem = Parabens + " bronze";
     console.log(Parabens + " bronze");
     break;
-  case experienciaHeroi < 5000:
+  case experienciaHeroi < 5001:
     mensagem = Parabens + " prata";
     console.log(Parabens + " prata");
     break;
-  case experienciaHeroi < 7000:
+  case experienciaHeroi < 7001:
     mensagem = Parabens + " ouro";
     console.log(Parabens + " ouro");
     break;
-  case experienciaHeroi < 8000:
+  case experienciaHeroi < 8001:
     mensagem = Parabens + " diamante";
     console.log(Parabens + " diamante");
     break;
-  case experienciaHeroi < 9000:
+  case experienciaHeroi < 9001:
     mensagem = Parabens + " ascendente";
     console.log(Parabens + " ascendente");
     break;
-  case experienciaHeroi < 10000:
+  case experienciaHeroi < 10001:
     mensagem = Parabens + " imortal";
     console.log(Parabens + " imortal");
     break;
